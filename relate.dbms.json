@@ -1,0 +1,19 @@
+{
+  "name": "DBMS 6a011dbc",
+  "description": "",
+  "tags": [
+    "neo4j-desktop-dbms-6a011dbc-eeee-4955-b588-43f1b3bde435"
+  ],
+  "id": "6a011dbc-eeee-4955-b588-43f1b3bde435",
+  "metadata": {
+    "neo4jDesktopStatistics": {
+      "dbId": "database-1952e03d-dc5d-4b3a-bbd5-7e63c844b086",
+      "nodes": 19,
+      "relationships": 25,
+      "labels": 3,
+      "relationshipTypes": 6,
+      "propertyKeys": 9,
+      "upTime": 118807416
+    }
+  }
+}
